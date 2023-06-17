@@ -1,5 +1,5 @@
 const CONFIG_MATERY = {
-  HOME_BANNER_ENABLE: true,
+  HOME_BANNER_ENABLE: false,
   HOME_BANNER_GREETINGS: ['Hi，我是一个 Developer', 'Hi，我是一个 Creator', 'Hi，我是一个 Walker', ' Welcome to 我的博客🎉'], // 首页大图标语文字
 
   HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
